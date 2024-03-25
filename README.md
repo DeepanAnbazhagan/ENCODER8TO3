@@ -1,6 +1,6 @@
 # ENCODER8TO3
 # AIM:
-To simulate and synthesis Encoder using Vivado software.
+To simulate and synthesis of Encoder using Vivado software.
 # APPARATUS REQUIRED:
 Vivado 2023.1 software.
 # Pin Diagram:
@@ -25,6 +25,6 @@ Vivado 2023.1 software.
 <img width="960" alt="Screenshot 2024-03-25 234302" src="https://github.com/DeepanAnbazhagan/ENCODER8TO3/assets/164902865/c056bbad-c8cc-47d2-bfa0-366fbcd34947">
 
 # RESULT:
-Thus the simulate and synthesis of  Encoder is verified successfully by using Vivado software.
+Thus the simulate and synthesis of Encoder is verified successfully by using Vivado software.
   
 
